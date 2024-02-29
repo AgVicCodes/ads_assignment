@@ -1,4 +1,5 @@
 Walmart Sales Analysis
+
 This repository contains an analysis of Walmart sales over the past few years, exploring various factors that may influence sales performance. The analysis includes examination of factors such as temperature, Consumer Price Index (CPI), unemployment rate, and other relevant variables.
 
 Overview
