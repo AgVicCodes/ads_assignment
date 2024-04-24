@@ -1,14 +1,14 @@
-Walmart Sales Analysis
+# Walmart Sales Analysis
 
 This repository contains an analysis of Walmart sales over the past few years, exploring various factors that may influence sales performance. The analysis includes examination of factors such as temperature, Consumer Price Index (CPI), unemployment rate, and other relevant variables.
 
-Overview
+## Overview
 Walmart, one of the largest retail chains globally, experiences fluctuations in sales due to various internal and external factors. Understanding the relationships between sales and these factors can provide valuable insights for strategic decision-making and optimization of sales strategies.
 
-Dataset
+## Dataset
 The analysis is based on a dataset containing Walmart sales data along with corresponding variables such as temperature, CPI, unemployment rate, and other potentially influential factors. The dataset is sourced from [provide source if available].
 
-Analysis
+## Analysis
 The analysis involves exploratory data analysis (EDA) to understand the distribution and relationships between different variables. Key aspects of the analysis include:
 
 Visualizations: Utilizing plots such as histograms, scatter plots, and box plots to visualize the distribution of variables and explore relationships between sales and other factors.
@@ -17,7 +17,7 @@ Statistical Analysis: Conducting statistical tests and correlations to quantify 
 
 Time Series Analysis: Investigating sales trends over time and identifying seasonal patterns or trends.
 
-Contents
+# Contents
 csv/: Folder containing the dataset used for analysis.
 /: Jupyter notebooks containing the analysis code.
 plots/: Folder containing visualizations generated during the analysis.
